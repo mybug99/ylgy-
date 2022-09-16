@@ -1,5 +1,5 @@
 # ylgy
-羊了个羊通关次数脚本
+羊了个羊通关次数脚本，脚本中有变量控制完成次数和用户token自行修改
 
 # 抓包
 [Charles抓包教程](https://www.jianshu.com/p/ff85b3dac157)
